@@ -54,4 +54,5 @@ I am a budding Data Scientist from India and earned my qualification from MIT <i
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
