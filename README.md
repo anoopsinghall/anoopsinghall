@@ -40,6 +40,7 @@ I am a budding Data Scientist from India and earned my qualification from MIT <i
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Pandas" alt="Java" width="40" height="40"/>&nbsp;
   
 </div>
 
